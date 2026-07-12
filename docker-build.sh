@@ -4,7 +4,7 @@ export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 init_var() {
   ECHO_TYPE="echo -e"
 
-  version=2.9.1
+  version=2.11.4
 
   arch_arr="linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64,linux/ppc64le,linux/s390x"
 }
